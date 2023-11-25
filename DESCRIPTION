@@ -1,4 +1,4 @@
-Package: BNP-System-Reliability
+Package: BnpSysRel
 Type: Package
 Title: Bayesian Non-Parametric Estimates of System Reliability
 Version: 0.3.1
