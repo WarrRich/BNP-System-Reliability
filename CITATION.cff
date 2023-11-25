@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Warr"
+  given-names: "Richard"
+  orcid: "https://orcid.org/0000-0001-8508-3105"
+- family-names: "Curtis"
+  given-names: "Jackson"
+- family-names: "Jeremy"
+  given-names: "Meyers"
+title: "Bayesian Non-Parametric Estimates of System Reliability"
+version: 0.3.1
+date-released: 2023-11-25
+url: "https://github.com/WarrRich/BNP-System-Reliability"
